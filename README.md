@@ -115,19 +115,17 @@ Tamper-proof academic credential verification using Blockchain, IPFS and SHA-256
 
 # 📊 GitHub Analytics
 
-<div align="center">
+## 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hithalearnz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hithalearnz&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hithalearnz&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hithalearnz&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hithalearnz&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hithalearnz&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
